@@ -16,4 +16,4 @@ The program accepts three flags:
 
 -timeout=<number>
 
-	<number> of seconds before a request to the server times out.# crawler
+	<number> of seconds before a request to the server times out.
